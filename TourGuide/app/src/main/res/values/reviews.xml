@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Restaurant reviews taken from Yelp!-->
+    <string name="res_review_one">They were the most magnificent
+        chocolate chip cookies eveeerrrr!</string>
+
+    <string name="res_review_two">Yummy food is what they serve!</string>
+
+    <string name="res_review_three">This is a local favorite. I\'ve been coming here
+        since as long as I can remember.</string>
+
+    <string name="res_review_four">I can\'t believe I never tried this special ice cream
+        place till now!</string>
+
+    <string name="res_review_five">We had the following: - A Kouign Amann Nature ($4)
+                                YUM!!!</string>
+
+    <string name="res_review_six">If your in the mood for a casual atmosphere
+                        look no further.</string>
+
+    <string name="res_review_seven">I had a hard time deciding what to order, but we decided
+        on a meatball cassoni.</string>
+
+    <string name="res_review_eight">Miz Stephanie knows how to carmelize some collard greens and
+        make those cheesy grits just zing!</string>
+
+    <!--Places reviews taken from tripadvisor.in-->
+    <string name="place_review_one">When most people think of Zermatt, they think of one thing:
+                                    The Matterhorn.</string>
+
+    <string name="place_review_two">Rheinfahre.Special attraction.</string>
+
+    <string name="place_review_three">Awesome place!Had the best time of my life.</string>
+
+    <string name="place_review_four">Superb! I will visit it again.</string>
+
+    <string name="place_review_five">Great view, jet d\'eau is a must see</string>
+
+    <string name="place_review_six">Saas Fee Ski Resort.Best Skee Resort!</string>
+
+    <string name="place_review_seven">Wengen Mannlichen Aerial Cableway.Flying in the air!</string>
+
+    <string name="place_review_eight">Tschuggenhutte.</string>
+
+    <!--These reviews taken from meetup.com-->
+    <string name="event_review_one">The Docker Online Meetup is always great and informative.
+                                    More of these!! </string>
+
+    <string name="event_review_two">Best Meetup for SFDS yet. Thanks so much.</string>
+
+    <string name="event_review_three">I\'ve met awesome new friend and got useful information
+                                about my interest from them.</string>
+
+    <string name="event_review_four">The ACM provides valuable services to the
+                                    information technology community.</string>
+
+    <string name="event_review_five">Enjoyed this presentation very much - thanks.
+                                    A great job, Vungle Team!</string>
+
+    <string name="event_review_six">A fantastic group filled with great people
+                                    from all over the bay!</string>
+
+    <string name="event_review_seven">Thank You for organizing this meetup.</string>
+
+    <string name="event_review_eight"> I enjoy meeting new friends and learning
+                                        fun open source coding tools. </string>
+</resources>

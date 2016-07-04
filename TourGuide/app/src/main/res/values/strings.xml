@@ -1,0 +1,60 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Tour Guide</string>
+
+    <string name="category_event">Events</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="category_reviews">Reviews</string>
+
+    <string name="category_places">Places</string>
+
+    <string name="res_one">Patisserie</string>
+
+    <string name="res_two">Ike’s Place</string>
+
+    <string name="res_three">Sugarfoot</string>
+
+    <string name="res_four">Frances</string>
+
+    <string name="res_five">State Bird Provisions</string>
+
+    <string name="res_six">Gary Danko</string>
+
+    <string name="res_seven">The Chairman</string>
+
+    <string name="res_eight">Rove Kitchen</string>
+
+    <string name="place_one">Zermatt</string>
+
+    <string name="place_two">Basel</string>
+
+    <string name="place_three">Saanen</string>
+
+    <string name="place_four">Zurich</string>
+
+    <string name="place_five">Geneva</string>
+
+    <string name="place_six">Saas-fee</string>
+
+    <string name="place_seven">Wengen</string>
+
+    <string name="place_eight">Arosa</string>
+
+    <string name="event_one">Docker online meetup</string>
+
+    <string name="event_two">SF Data Science</string>
+
+    <string name="event_three">Tech in Motion:SF</string>
+
+    <string name="event_four">SF Bay ACM Chapter</string>
+
+    <string name="event_five">Bay Area Spark Meetup</string>
+
+    <string name="event_six">AngularJS Mountain View</string>
+
+    <string name="event_seven">SF Bay Areas Big Data Think Tank</string>
+
+    <string name="event_eight">Women Who Code SF</string>
+</resources>

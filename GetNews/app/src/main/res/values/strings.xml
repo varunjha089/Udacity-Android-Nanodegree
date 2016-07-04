@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetNews</string>
+    <!-- Refresh to fetch updated content from the server -->
+    <string name="action_refresh">Refresh</string>
+</resources>

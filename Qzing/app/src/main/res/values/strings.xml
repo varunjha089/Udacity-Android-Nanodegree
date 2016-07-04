@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Qzing!</string>
+    <string name="ask_name">What\'s your name?</string>
+    <string name="start">Let\'s Play!</string>
+
+    <string name="q1">Which app was known as Picaboo and was developed by Evan Spiegel?</string>
+    <string name="opt1_q1">Snapchat</string>
+    <string name="opt2_q1">Telegram</string>
+
+    <string name="q2">Susan Bennet, Jon Briggs, Karen Jacobsen all under the names Samantha,
+                      Daniel and Karen are famous for what?</string>
+    <string name="opt1_q2">Siri</string>
+    <string name="opt2_q2">Cortana</string>
+
+    <string name="q3"> Yandex is a service from which country ?</string>
+    <string name="opt1_q3">Canada</string>
+    <string name="opt2_q3">Russia</string>
+
+    <string name="q4">Which country had the highest number of internet users as of 2014?</string>
+    <string name="opt1_q4">China</string>
+    <string name="opt2_q4">India</string>
+
+    <string name="q5">Which game was developed by Rockstar Games?</string>
+    <string name="opt1_q5">GTA Vice City</string>
+    <string name="opt2_q5">GTA San Andreas</string>
+
+    <string name="q6">Which company was founded in July 2003 by Martin Eberhard and Marc Tarpenning
+        and named after a Serbian-American inventor?</string>
+    <string name="opt1_q6">Tesla</string>
+    <string name="opt2_q6">Volkswagen</string>
+
+    <string name="q7">The name of which series of phone has meaning \'Snow\' in Finnish?</string>
+    <string name="opt1_q7">Lumia</string>
+    <string name="opt2_q7">Nexus</string>
+
+</resources>
